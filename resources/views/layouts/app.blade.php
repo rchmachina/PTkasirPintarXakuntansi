@@ -33,7 +33,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
-
+                        <div class="text-center p-3">
+                            created by :
+                            <a class="text-dark" href="https://rachmachinaporto.vercel.app">https://rachmachinaporto.vercel.app</a>
+                          </div>
                     </ul>
 
                     <!-- Right Side Of Navbar -->
